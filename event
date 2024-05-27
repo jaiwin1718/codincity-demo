@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Invitation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .invitation {
+            background: #f7f7f7;
+            padding: 30px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            margin: 20px 0;
+        }
+        .date, .location {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <div class="invitation">
+        <h1>You're Invited!</h1>
+        <p>Join us for an evening of fun and celebration.</p>
+        <p class="date">June 20, 2024</p>
+        <p class="location">123 Event Venue, City, Country</p>
+        <p>Don't miss out on this wonderful event. We hope to see you there!</p>
+    </div>
+</body>
+</html>
